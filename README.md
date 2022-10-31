@@ -1,3 +1,8 @@
 # Valeri
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/enthada-myre/haaaa">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
